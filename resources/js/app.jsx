@@ -1,9 +1,9 @@
 import ReactDOM from 'react-dom/client';
 import { TodoProvider } from './context/TodoContext';
-import CategoryUI from './components/TodoApp/CategoryUI';
-import TodoUI from './components/TodoApp/TodoUI';
-import FilterUI from './components/TodoApp/FilterUI';
-import './components/TodoApp/todo.css';
+import CategoryUI from './Components/TodoApp/CategoryUI';
+import TodoUI from './Components/TodoApp/TodoUI';
+import FilterUI from './Components/TodoApp/FilterUI';
+import './Components/TodoApp/todo.css';
 
 function App() {
   return (
